@@ -9,5 +9,6 @@ we can using unordered list using - sympole
 thanke you to open my repo 
 
 @yaljamal :+1:
+for more repo visit my [github page](https://github.com/yaljamal)
 
 best regards,
