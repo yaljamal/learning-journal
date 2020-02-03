@@ -1,0 +1,7 @@
+### steps to git the repo form githup :
+
+1- create repo
+2- git clone URL
+3- cd repo name
+4- git remote -v
+5- code .
