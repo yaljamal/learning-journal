@@ -5,6 +5,10 @@ we can using unordered list using - sympole
 - if we need to make the word * we should using *italic* 
 - we can using *** to make the text **bold** and *italic* for the example ***my text bold and italic***  
 
+| name               | Yazan Aljamal   |
+|--------------------|:---------------:|
+|to git repo and edit|[edit file](https://yaljamal.github.io/learning-journal/edit-file)
+
 thanke you to open my repo 
 
 @yaljamal :+1:
