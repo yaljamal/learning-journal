@@ -11,7 +11,7 @@ we can using unordered list using - sympole
 |--------------------|:--------------------------------------------------------------------:|
 |to git repo and edit|[edit file](https://yaljamal.github.io/learning-journal/edit-file)    |
 |text-editor         |[text editor](https://yaljamal.github.io/learning-journal/text-editor)|
-|ubuntu              |[text editor](https://yaljamal.github.io/learning-journal/ubuntu)     |
+|ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
 
 
 
