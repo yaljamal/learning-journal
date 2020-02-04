@@ -13,7 +13,6 @@ we can using unordered list using - sympole
 |text-editor         |[text editor](https://yaljamal.github.io/learning-journal/text-editor)|
 |ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
 |css color           |[css color](https://yaljamal.github.io/learning-journal/css)          |
-|ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
 
 
 
