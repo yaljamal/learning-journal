@@ -9,7 +9,9 @@
 - `<img src="" alt="">` this tage to insert image 
 
 - `<p>` its to make a paragraph
-- `<!DOCTYPE html>`
+- its should have in the html pages  
+
+`<!DOCTYPE html>`
 `<html lang="en">`
 `<head>`
     `<meta charset="UTF-8">`
