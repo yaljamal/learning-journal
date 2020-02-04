@@ -12,6 +12,9 @@ we can using unordered list using - sympole
 |to git repo and edit|[edit file](https://yaljamal.github.io/learning-journal/edit-file)    |
 |text-editor         |[text editor](https://yaljamal.github.io/learning-journal/text-editor)|
 |ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
+|css color           |[ubuntu](https://yaljamal.github.io/learning-journal/css)          |
+|ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
+
 
 
 
