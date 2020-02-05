@@ -14,7 +14,13 @@ we can using unordered list using - sympole
 |ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
 |css color           |[css color](https://yaljamal.github.io/learning-journal/css)          |
 |lab 5          |[lab 5](https://yaljamal.github.io/humman-lovers/)          |
-|lab 6          |[lab6](https://yaljamal.github.io/learning-journal/read6)          |
+|lab 6 A          |[lab6](https://yaljamal.github.io/learning-journal/read6a)          |
+|lab 6 B          |[lab6](https://yaljamal.github.io/learning-journal/read6b)          |
+|lab 7           |[lab6](https://yaljamal.github.io/learning-journal/read7)          |
+|lab 8         |[lab6](https://yaljamal.github.io/learning-journal/read8)          |
+
+
+
 
 
 
