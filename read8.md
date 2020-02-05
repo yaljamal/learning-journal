@@ -11,7 +11,7 @@
 
 ### the logical operators :
 - && and operators => its need to return   two of the condetion true.
-- || or operators => its need to return one of the condetion is true.
+- `||` or operators => its need to return one of the condetion is true.
 - ! not  operators => its make the result of the operators opesit.
 
 ### for loop :
