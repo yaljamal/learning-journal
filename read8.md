@@ -15,8 +15,8 @@
 - ! not  operators => its make the result of the operators opesit.
 
 ### for loop :
- #### the decleration is 
- #### for (var i=0;i<10 ; i++){ pease of code }
+#### the decleration is 
+#### for (var i=0;i<10 ; i++){ pease of code }
 
 ### while loop :
 #### the decleration is 
