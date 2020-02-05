@@ -1,9 +1,9 @@
 # loops , logical operators and comparison operators 
 ###  the comparison operators is :
 - <  greater than 
-- > less than 
+- `>` less than 
 - <= grater than or equal 
-- >=  less than or equal 
+- `>`=  less than or equal 
 - == is equal 
 - != is not equal 
 - === is equal as a type  
