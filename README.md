@@ -13,17 +13,11 @@ we can using unordered list using - sympole
 |text-editor         |[text editor](https://yaljamal.github.io/learning-journal/text-editor)|
 |ubuntu              |[ubuntu](https://yaljamal.github.io/learning-journal/ubuntu)          |
 |css color           |[css color](https://yaljamal.github.io/learning-journal/css)          |
-|lab 5          |[lab 5](https://yaljamal.github.io/humman-lovers/)          |
-|read 6 A          |[lab6a](https://yaljamal.github.io/learning-journal/read6a)          |
-|read 6 B          |[lab6b](https://yaljamal.github.io/learning-journal/read6b)          |
-|read 7           |[lab7](https://yaljamal.github.io/learning-journal/read7)          |
-|read 8         |[lab8](https://yaljamal.github.io/learning-journal/read8)          |
-
-
-
-
-
-
+|lab 5               |[lab 5](https://yaljamal.github.io/humman-lovers/)                    |
+|read 6 A            |[lab6a](https://yaljamal.github.io/learning-journal/read6a)           |
+|read 6 B            |[lab6b](https://yaljamal.github.io/learning-journal/read6b)           |
+|read 7              |[lab7](https://yaljamal.github.io/learning-journal/read7)             |
+|read 8              |[lab8](https://yaljamal.github.io/learning-journal/read8)             |
 
 
 thanke you to open my repo 
